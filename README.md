@@ -1,2 +1,2 @@
-# gofannon-io pages
+# gofannon-io web site project
 
